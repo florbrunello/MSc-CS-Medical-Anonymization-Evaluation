@@ -91,4 +91,4 @@ The CC0 license allows free use, modification and distribution of the code witho
 
 ## Acknowledgements
 
-This work used compute resources from UNC Supercomputing (CCAD) and resources from the ARPHAI community. See the thesis acknowledgements for the full list of contributors and funders.
+This work used computational resources from UNC Supercómputo (CCAD), which is part of SNCAD, Argentina and resources from the ARPHAI community. 
