@@ -1,4 +1,4 @@
-# MSc Computer Sciences
+# MSc Computer Science - Research Project
 ## Evaluation of Different Approaches to the Anonymization of Spanish Medical Texts
 
 **Summary**
