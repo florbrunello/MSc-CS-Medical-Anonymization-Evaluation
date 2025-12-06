@@ -1,5 +1,5 @@
-# Academic Research Project
-## Evaluation of different approaches to anonymization of Spanish clinical texts
+# MSc Computer Sciences
+## Evaluation of Different Approaches to the Anonymization of Spanish Medical Texts
 
 **Summary**
 
