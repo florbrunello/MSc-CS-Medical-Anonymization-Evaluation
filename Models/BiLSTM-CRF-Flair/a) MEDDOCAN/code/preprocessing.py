@@ -12,7 +12,7 @@ from nltk.corpus import cess_esp as cess
 from nltk import UnigramTagger as ut
 
 import spacy
-nlp = spacy.load('es')
+nlp = spacy.load('es_core_news_sm')
 
 cess_sents = cess.tagged_sents()
 

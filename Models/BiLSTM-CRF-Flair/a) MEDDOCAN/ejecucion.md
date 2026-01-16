@@ -23,8 +23,9 @@ python3.7 -m venv .env
 source .env/bin/activate
 
 4. Instalar las dependencias:
-pip install tensorflow==1.14.0 numpy==1.16.4 scipy==1.3.0 cython wheel spacy==2.3.2 nltk matplotlib gast==0.2.2 scikit-learn
-pip install protobuf==3.20.3
+# pip install tensorflow==1.14.0 numpy==1.16.4 scipy==1.3.0 cython wheel spacy==2.3.2 nltk matplotlib gast==0.2.2 scikit-learn
+# pip install protobuf==3.20.3
+pip install tensorflow==1.14.0 numpy==1.16.4 scipy==1.3.0 h5py==2.10.0 protobuf==3.20.3 gast==0.2.2 cython wheel scikit-learn matplotlib nltk spacy==2.3.2
 
 5. Descargar pipeline en español optimizado para CPU:
 python3 -m spacy download es_core_news_sm
@@ -34,7 +35,7 @@ cd code
 sed -i "s/spacy.load('es')/spacy.load('es_core_news_sm')/g" preprocessing.py
 
 7. Descargar los recursos necesarios:
-python3 ../../../requirements.py
+python3 ../requirements.py
 
 8. Preprocesar los datos:
 Eliminar pickles que se generarán:
