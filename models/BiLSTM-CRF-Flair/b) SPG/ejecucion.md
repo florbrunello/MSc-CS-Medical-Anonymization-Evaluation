@@ -60,7 +60,7 @@ mkdir Model
 mkdir plots
 cd Code
 
-12. Correr el modelo (reemplazar el archivo model.py):
+12. Correr el modelo (reemplazar el archivo model.py y train.py):
 python3 train.py
 
 13. Evaluar el modelo con los datos del MEDDOCAN:
