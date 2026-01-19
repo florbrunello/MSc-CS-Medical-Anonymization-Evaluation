@@ -1,0 +1,11 @@
+.venv
+.env
+models/BiLSTM-CRF-Spacy/d) CARMEN-I/
+models/BiLSTM-CRF-Flair/d) CARMEN-I/
+__pycache__/
+.data
+.meta
+.data-00000-of-00001
+vocab_embeddings_flair.npz
+vocab_embeddings_spacy.npz
+vocab_embeddings_spacy.npz
