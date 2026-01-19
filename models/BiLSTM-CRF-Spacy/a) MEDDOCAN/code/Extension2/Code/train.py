@@ -269,7 +269,7 @@ class Config():
     cwd = os.getcwd()
     dir_output = os.path.join(cwd, "../Model/")
     dir_model  = os.path.join(dir_output, "weights/")
-    dim_word = 300 # Ajustar según las embeddings usadas
+    dim_word = 96 # Ajustar según las embeddings usadas
     dim_char = 100
     fig_confusionplot = os.path.join(cwd, "../plots/confusionplot")
     train_embeddings = False

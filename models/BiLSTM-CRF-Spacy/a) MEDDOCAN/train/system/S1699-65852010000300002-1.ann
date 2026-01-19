@@ -1,0 +1,22 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Luis
+T2	NOMBRE_SUJETO_ASISTENCIA 45 58	Torres Rollán
+T3	ID_SUJETO_ASISTENCIA 65 72	2309875
+T4	ID_ASEGURAMIENTO 80 94	23 45065909 38
+T5	CALLE 108 131	Calla Miraflores 16, 3D
+T6	TERRITORIO 155 162	Sevilla
+T7	FECHAS 216 226	23/05/1982
+T8	PAIS 234 240	España
+T9	EDAD_SUJETO_ASISTENCIA 248 255	32 años
+T10	SEXO_SUJETO_ASISTENCIA 262 263	H
+T11	FECHAS 283 293	15/08/2014
+T12	NOMBRE_PERSONAL_SANITARIO 303 325	Eugenio Velasco Ortega
+T13	ID_TITULACION_PERSONAL_SANITARIO 333 344	41 41 89756
+T14	EDAD_SUJETO_ASISTENCIA 407 1430	32 años de edad, sin antecedentes médicos de interés, que acude a consulta para tratamiento implantológico por pérdida del incisivo central superior derecho. El examen radiológico (ortopantomografía) muestra un quiste radicular residual a nivel del diente perdido. Al paciente se le recomienda la posibilidad de realizar un plan de tratamiento que consiste en una misma sesión operatoria, de la eliminación del quiste, regeneración ósea del defecto óseo e inserción de un implante. Posteriormente después de un periodo de cicatrización se realizará la rehabilitación con una corona cementada implantosoportada. El paciente es informado de la técnica quirúrgica y de los aspectos prostodóncicos (prótesis provisional y definitiva), temporalización (duración del tratamiento, número de visitas) y el seguimiento (revisiones clínicas y radiológicas), y de la posibilidad de la existencia de complicaciones y pérdida de implantes. El paciente autoriza el tratamiento implantológico mediante un consentimiento informado.
+T15	PAIS 1925 1931	España
+T16	PAIS 2038 2044	España
+T17	PAIS 2130 2534	Suiza). A los 8 meses después de la inserción del implante se realiza la segunda cirugía con colocación de un tornillo de cicatrización.
+T18	NOMBRE_PERSONAL_SANITARIO 2713 2735	Eugenio Velasco Ortega
+T19	CALLE 2737 2785	Facultad de Odontología de Sevilla. Avicena, s/n
+T20	TERRITORIO 2786 2791	41009
+T21	TERRITORIO 2792 2799	Sevilla
+T22	CORREO_ELECTRONICO 2808 2822	evelasco@us.es

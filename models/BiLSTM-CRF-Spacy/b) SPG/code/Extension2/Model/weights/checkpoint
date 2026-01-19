@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/usuario/Downloads/MSc-CS-Medical-Anonymization-Evaluation/models/BiLSTM-CRF-Spacy/b) SPG/code/Extension2/Code/../Model/weights/"
+all_model_checkpoint_paths: "/home/usuario/Downloads/MSc-CS-Medical-Anonymization-Evaluation/models/BiLSTM-CRF-Spacy/b) SPG/code/Extension2/Code/../Model/weights/"

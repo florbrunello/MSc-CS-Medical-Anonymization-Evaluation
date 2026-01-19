@@ -1,0 +1,21 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 33	David
+T2	NOMBRE_SUJETO_ASISTENCIA 46 59	Flores Blanco
+T3	ID_SUJETO_ASISTENCIA 66 73	8972604
+T4	CALLE 87 113	Calle Puerto Rico, 17, 3 C
+T5	TERRITORIO 137 145	Albacete
+T6	TERRITORIO 151 156	02541
+T7	FECHAS 200 210	20/10/2003
+T8	PAIS 218 224	España
+T9	EDAD_SUJETO_ASISTENCIA 232 239	13 años
+T10	SEXO_SUJETO_ASISTENCIA 246 247	H
+T11	FECHAS 267 277	04/01/2017
+T12	NOMBRE_PERSONAL_SANITARIO 287 306	María Flores Copete
+T13	ID_TITULACION_PERSONAL_SANITARIO 314 325	02 02 12630
+T14	SEXO_SUJETO_ASISTENCIA 357 361	Niño
+T15	EDAD_SUJETO_ASISTENCIA 365 1133	13 años, con antecedentes personales de síndrome de Asperger, trastorno de déficit de atención e hiperactividad e hipotiroidismo, en tratamiento con metilfenidato, risperidona y levotiroxina. Fue enviado a la consulta de Dermatología por presentar una lesión en el miembro inferior derecho, de crecimiento progresivo, desde hacía un año. Era asintomática, sin presentar ninguna clínica como dolor o prurito. No había recibido ningún tratamiento, ni refería ningún factor desencadenante. En la exploración se observó una placa, indurada a la palpación, con un área discrómica central y un halo violáceo, de distribución lineal en el tercio medio-distal en la zona externa del muslo derecho. No presentaba otras lesiones cutáneas, ni clínica sistémica acompañante.
+T16	NOMBRE_PERSONAL_SANITARIO 1957 1976	María Flores Copete
+T17	CALLE 1978 2000	Centro de Salud Zona 4
+T18	CALLE 2002 2017	C/ Seminario, 4
+T19	TERRITORIO 2024 2029	02006
+T20	PAIS 2041 2047	España
+T21	CORREO_ELECTRONICO 2069 2096	florescopetemaria@gmail.com
